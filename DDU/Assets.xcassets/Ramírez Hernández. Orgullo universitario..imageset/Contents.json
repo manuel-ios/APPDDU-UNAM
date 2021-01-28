@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Ramírez Hernández. Orgullo universitario.@1.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Ramírez Hernández. Orgullo universitario..png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Ramírez Hernández. Orgullo universitario.@3.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
